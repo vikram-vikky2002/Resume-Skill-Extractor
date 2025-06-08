@@ -1,0 +1,80 @@
+[
+    {
+        "id": "4075f7d8-d063-4aef-816b-70da73f694e7",
+        "filename": "John_Doe_Resume.pdf",
+        "timestamp": "2025-06-06T19:34:00.201979",
+        "data": {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "",
+            "skills": [
+                "python",
+                "sql",
+                "react",
+                "flask",
+                "agile",
+                "api",
+                "email",
+                "john.doe@example.com",
+                "phone",
+                "developer",
+                "pipelines",
+                "developers",
+                "junior",
+                "inc.",
+                "scripts"
+            ],
+            "raw_text": "John Doe\nEmail: john.doe@example.com\nPhone: +1 (555) 123-4567\nSkills\n- Python\n- React\n- SQL\nWork Experience\nSoftware Developer\nTechNova Solutions - San Francisco, CA\nJan 2022 - Present\n- Developed web applications using React for frontend and Python-based Flask APIs.\n- Implemented data pipelines and integrated SQL-based storage systems.\n- Collaborated with a team of 6 developers using Agile methodology.\nJunior Developer\nByteWorks Inc. - Los Angeles, CA\nJul 2020 - Dec 2021\n- Assisted in building interactive UI components using React.\n- Wrote Python scripts for automating routine backend tasks.\n- Optimized SQL queries, improving database performance by 20%."
+        },
+        "category": "Full Stack Developer",
+        "remarks": "",
+        "summary": "Professional Summary:\n- Highly skilled Software Developer with 2+ years of experience building web applications using React, Python (Flask), and SQL.  Proven ability to design and implement data pipelines within Agile environments.  Seeking a challenging role leveraging expertise in full-stack development and collaborative teamwork."
+    },
+    {
+        "id": "03782df1-2b9c-48e4-9a0a-debf66ff2732",
+        "filename": "Alice_AI_Engineer_Resume.pdf",
+        "timestamp": "2025-06-06T22:06:17.474657",
+        "data": {
+            "name": "Alice Smith",
+            "email": "alice.smith@example.com",
+            "phone": "",
+            "skills": [
+                "sql",
+                "ai",
+                "python",
+                "tensorflow",
+                "pytorch"
+            ],
+            "raw_text": "Alice Smith\nEmail: alice.smith@example.com\nPhone: +1 (555) 234-5678\nSkills\n- Python\n- TensorFlow\n- PyTorch\n- Machine Learning\n- Deep Learning\nWork Experience\nAI Engineer\nNeuralNet Labs - New York, NY\nMar 2021 - Present\n- Designed and deployed deep learning models for image classification tasks.\n- Built NLP pipelines using TensorFlow and spaCy.\n- Collaborated with data scientists to preprocess large datasets and fine-tune models.\nData Scientist Intern\nDataWiz Analytics - Boston, MA\nJan 2020 - Feb 2021\n- Analyzed structured and unstructured data using Python and SQL.\n- Developed predictive models to support business decision-making."
+        },
+        "category": "Data Scientist",
+        "remarks": "",
+        "summary": "Professional Summary:\n- Highly skilled AI Engineer with expertise in Python, TensorFlow, and PyTorch, specializing in deep learning model design and deployment for image classification and NLP.  Proven ability to collaborate on large-scale data projects and optimize model performance.  Seeking a challenging role leveraging advanced AI techniques."
+    },
+    {
+        "id": "371c67d9-f744-4051-80d8-9316c4c675d6",
+        "filename": "Bob_DevOps_Engineer_Resume.pdf",
+        "timestamp": "2025-06-06T22:11:12.513204",
+        "data": {
+            "name": "Bob Johnson",
+            "email": "bob.johnson@example.com",
+            "phone": "",
+            "skills": [
+                "cloud",
+                "jenkins",
+                "kubernetes",
+                "prometheus",
+                "grafana",
+                "devops",
+                "docker",
+                "github",
+                "terraform",
+                "aws"
+            ],
+            "raw_text": "Bob Johnson\nEmail: bob.johnson@example.com\nPhone: +1 (555) 345-6789\nSkills\n- AWS\n- Docker\n- Kubernetes\n- CI/CD\n- Terraform\nWork Experience\nDevOps Engineer\nCloudCore Technologies - Austin, TX\nJun 2020 - Present\n- Managed cloud infrastructure on AWS using Terraform and CloudFormation.\n- Implemented CI/CD pipelines with Jenkins and GitHub Actions.\n- Containerized applications with Docker and orchestrated deployments via Kubernetes.\nSystem Administrator\nSecureIT Solutions - Dallas, TX\nJan 2018 - May 2020\n- Maintained Linux servers and performed system upgrades and patching.\n- Set up monitoring and alerting systems using Prometheus and Grafana."
+        },
+        "category": "DevOps Engineer",
+        "remarks": "",
+        "summary": "Professional Summary:\n- Highly skilled DevOps Engineer with expertise in AWS cloud infrastructure, CI/CD pipelines (Jenkins, GitHub Actions), containerization (Docker, Kubernetes), and infrastructure-as-code (Terraform). Proven ability to manage and automate cloud deployments, resulting in improved efficiency and scalability.  Contact: bob.johnson@example.com, +1 (555) 345-6789."
+    }
+]
