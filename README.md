@@ -99,8 +99,8 @@ The application will be available at `http://localhost:8501`
 
 1. Open your web browser and navigate to http://localhost:8501
 2. Login with credentials:
-   - Username: hradmin
-   - Password: hradmin123
+   - Username: admin
+   - Password: password
 3. Use the interface to:
    - Upload PDF resumes
    - Extract and analyze skills
